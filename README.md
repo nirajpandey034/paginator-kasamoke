@@ -64,8 +64,8 @@ DataPerPage={dataPerPage}
 />
 ```
 
-# Contact Us Section
+# Contact Us -->
 
 # Contact for bug or improvements: (nirajpandey034@gmail.com)
 
-# Github: https://github.com/nirajpandey034/Paginator
+# Github: https://github.com/nirajpandey034/paginator-kasamoke

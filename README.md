@@ -40,11 +40,14 @@ limit, or ending index
 const [dataPerPage, setDataPerPage] = useState(10);
 ```
 
+
 # Step 2:
 
 # While mapping through your data, pass your data array through dataFormatter():
 
+```
 dataFormatter(data, currentPageIndex, dataPerPage, currentPageNumber).map((post) .....
+```
 
 # Step 3:
 

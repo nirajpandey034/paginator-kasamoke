@@ -11,24 +11,34 @@ Just add some state variables and import couple of functions and you are ready t
 
 data to be shown(Can be anything, we need only array)
 
-### const [data, setData] = useState([]);
+```
+const [data, setData] = useState([]);
+```
 
 page number (you can declare as it is)
 
-### const [currentPageNumber, setCurrentPageNumber] = useState(1);
+```
+const [currentPageNumber, setCurrentPageNumber] = useState(1);
+```
 
 starting index (you can declare as it is)
 
-### const [currentPageIndex, setCurrentPageIndex] = useState(0);
+```
+const [currentPageIndex, setCurrentPageIndex] = useState(0);
+```
 
 total number of data's (count of data or you can say, length of input array)
 
+```
+const [totalDataCount, setTotalDataCount] = useState(0);
 
-### const [totalDataCount, setTotalDataCount] = useState(0);
+```
 
 limit, or ending index
 
-### const [dataPerPage, setDataPerPage] = useState(10);
+```
+const [dataPerPage, setDataPerPage] = useState(10);
+```
 
 # Step 2:
 

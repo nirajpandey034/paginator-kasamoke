@@ -40,15 +40,16 @@ dataFormatter(data, currentPageIndex, dataPerPage, currentPageNumber).map((post)
 
 # Call the Pagination component as following
 
-
- > <Pagination
- > currentPage={currentPageNumber}
- > setCurrentPage={setCurrentPageNumber}
- > currentPageIndex={currentPageIndex}
- > setCurrentPageIndex={setCurrentPageIndex}
- > TotalDataCount={totalDataCount}
- > DataPerPage={dataPerPage}
- > />
+```
+<Pagination
+currentPage={currentPageNumber}
+setCurrentPage={setCurrentPageNumber}
+currentPageIndex={currentPageIndex}
+setCurrentPageIndex={setCurrentPageIndex}
+TotalDataCount={totalDataCount}
+DataPerPage={dataPerPage}
+/>
+```
 
 # Contact Us Section
 

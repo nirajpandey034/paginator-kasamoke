@@ -1,6 +1,6 @@
 {
   "name": "paginator-kasamoke",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "./build/",
   "scripts": {
     "dev": "webpack serve",
@@ -27,13 +27,13 @@
   "description": "This library is built to make pagination thing easy. \r Just add some state variables and import couple of functions and you are ready to go.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nirajpandey034/Paginator.git"
+    "url": "git+https://github.com/nirajpandey034/paginator-kasamoke.git"
   },
   "keywords": [
     "Pagination"
   ],
   "bugs": {
-    "url": "https://github.com/nirajpandey034/Paginator/issues"
+    "url": "https://github.com/nirajpandey034/paginator-kasamoke/issues"
   },
-  "homepage": "https://github.com/nirajpandey034/Paginator#readme"
+  "homepage": "https://github.com/nirajpandey034/paginator-kasamoke#readme"
 }
